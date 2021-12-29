@@ -1,5 +1,5 @@
-# Copyright (C) By @StarkGang And @ZeltraxRockz
-# Powered By @Nemo_Projects
+# Copyright (C) By @Professor_Here_Money_heist
+# Powered By @all_web_series_mihika
 import random
 import string
 
