@@ -1,4 +1,4 @@
-# Ported From https://github.com/jaskaranSM/HerokuManagerBot
+# Ported From https://github.com/Mihika7/Mihika
 
 import heroku3
 
