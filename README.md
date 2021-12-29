@@ -21,7 +21,7 @@
 
 
 # Special thanks
-to [Aditya](https://github.com/Mihika7) for maintaining the repository
+to [Mihika](https://github.com/Mihika7) for maintaining the repository
 
 # Support
 <a href="https://t.me/all_web_series_mihika"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
