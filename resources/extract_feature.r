@@ -1,5 +1,5 @@
-# https://github.com/Helias/Speech-Gender-Recognition-Bot/blob/master/R/extract_feature.r
-# (C) @Helias
+# https://github.com/Mihika7/Mihika/blob/master/R/extract_feature.r
+# (C) @Professor_Here_Money_heist
 
 library(tuneR)
 library(seewave)
