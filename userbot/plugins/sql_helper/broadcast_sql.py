@@ -1,5 +1,4 @@
-#    Copyright (C) 2020 @HeisenbergTheDanger
-
+#    Copyright (C) 2020 @Professor_Here_Money_heist
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as published by
 #    the Free Software Foundation, either version 3 of the License, or
