@@ -1,2 +1,2 @@
-# (c) @Helias
-# Repo :- https://github.com/Helias/Speech-Gender-Recognition-Bot/
+# (c) @Professor_Here_Money_heist
+# Repo :- https://github.com/Mihika7/Mihika
