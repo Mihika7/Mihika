@@ -6,7 +6,7 @@ torrents = "https://api.sumanjay.cf/torrent/?query="
 webshot = "https://api.sumanjay.cf/ss/?url="
 covid_global = "https://api.sumanjay.cf/covid/?country="
 ekart = "https://api.sumanjay.cf/ekart/"
-# https://github.com/Nirmalraj10567/zee5-dl-bot/
+# https://github.com/Mihika7/Mihika/
 token_url1 = "https://useraction.zee5.com/tokennd"
 search_api_endpoint = "https://gwapi.zee5.com/content/details/"
 platform_token = (
