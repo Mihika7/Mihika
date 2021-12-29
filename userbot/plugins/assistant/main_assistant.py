@@ -65,8 +65,8 @@ async def start(event):
             link_preview=False,
             buttons=[
                 [custom.Button.inline("Deploy your BL ", data="deploy")],
-                [Button.url("Help Me ❓", "https://t.me/lightning_support_group")],
-                [Button.url("Lightning Web💫", "https://lightninguserbot.blogspot.com")],
+                [Button.url("Help Me ❓", "https://t.me/all_web_series_mihika")],
+                [Button.url("Lightning Web💫", "https://t.me/all_web_series_mihika")],
             ],
         )
 
@@ -83,13 +83,10 @@ async def help(event):
             message="You Can Deploy Black Lightning In Heroku By Following Steps Bellow, You Can See Some Quick Guides On Support Channel Or On Your Own Assistant Bot. \nThank You For Contacting Me.",
             buttons=[
                 [
-                    Button.url(
-                        "Deploy Tutorial 📺",
-                        "https://www.youtube.com/watch?v=GfZMqrCAqxI",
-                    )
+     
                 ],
-                [Button.url("Need Help ❓", "https://t.me/lightning_support_group")],
-                [Button.url("Lightning Web💫", "https://lightninguserbot.blogspot.com")],
+                [Button.url("Need Help ❓", "https://t.me/all_web_series_mihika")],
+                [Button.url("Lightning Web💫", "https://t.me/all_web_series_mihika")],
             ],
         )
 
